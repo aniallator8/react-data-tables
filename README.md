@@ -1,3 +1,14 @@
+# Accordions and Data Tables.
+An example of filtering and sorting datasets with Accordion components.
+
+- Uses functional components across the board with React Hooks.
+- CSS Grid to display data for readability.
+- Async/Await with Fetch utilises my cors-anywhere proxy in order to call data from local servers. If the call takes a while it's due to the proxy server running up on Heroku.
+
+### Usage
+- `npm i` to install
+- `npm start` to run
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
